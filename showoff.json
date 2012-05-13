@@ -1,0 +1,19 @@
+{
+  "name": "Gerrit",
+  "description": "Gerrit",
+  "sections": [
+    {"section":"title"},
+    {"section":"presentation"},
+    {"section":"acl"},
+    {"section":"search"},
+    {"section":"changeids"},
+    {"section":"signedoffby"},
+    {"section":"cli"},
+    {"section":"ihm"},
+    {"section":"upload"},
+    {"section":"workflow"},
+    {"section":"repo"},
+    {"section":"opinion"},
+    {"section":"demo"}
+  ]
+}
